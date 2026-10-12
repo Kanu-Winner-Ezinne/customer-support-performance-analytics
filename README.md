@@ -254,7 +254,10 @@ The company reported an increase in average resolution time, while the median fo
 
 **Final Decision: Do NOT roll back the new helpdesk tool.**
 
-The reported jump in average resolution time from 20 to 27 hours is a misleading metric caused by a single enterprise customer's data migration which accounted for 37.3% of all July support hours rather than a flaw in the software. For the typical ticket, support performance actually improved by 12%, with the median resolution time dropping from 16.6 to 14.6 hours across 1,492 new tickets. Rolling back would penalize the majority of customers who are receiving faster service; instead, Bramblewick should update its executive dashboard to track median resolution times and isolate project based migration tickets from standard operational SLAs.
+## Recommendations
+
+The business should prioritize improving the support experience for customer C000017, whose unusually long resolution times contributed significantly to July's average. Email support processes should be strengthened through timely ticket assignment, follow-ups, and escalation procedures. Clear resolution-time targets should also be established to prevent prolonged delays. Finally, the business should continue monitoring support performance and assess the impact of the new helpdesk tool before deciding whether further changes or a rollback are necessary.
+
 
 ### Final Takeaway
 
